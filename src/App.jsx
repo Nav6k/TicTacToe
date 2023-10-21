@@ -7,8 +7,8 @@ function App() {
     <div>
       {/* <h2>Lets get started</h2> */}
       {/* <ExpenseItem></ExpenseItem> */}
-      <TicTacToe></TicTacToe>
-      {/* <TicTacToeCover></TicTacToeCover> */}
+      {/* <TicTacToe></TicTacToe> */}
+      <TicTacToeCover></TicTacToeCover>
     </div>
   );
 }
