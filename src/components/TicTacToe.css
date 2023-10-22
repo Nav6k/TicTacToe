@@ -76,6 +76,7 @@ body{
     height: 120px; /* Set a fixed height for the items */
     border: 3px solid black;
     box-shadow: -5px 5px  #000;
+    color:black;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -85,4 +86,22 @@ body{
     background-color: #C9F9FC;
   }
   
+  button {
+    border-radius: 8px;
+    border: 2px solid black;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #f7f00a;
+    color: white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    
+}
+
+.anotherpage{
+    background-color: white;
+    color:black;
+}
   
