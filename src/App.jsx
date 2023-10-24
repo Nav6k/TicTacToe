@@ -1,6 +1,7 @@
 import ExpenseItem from "./components/ExpenseItem";
-import TicTacToe from "./components/TicTacToe";
-import TicTacToeCover from "./components/TicTacToeCover";
+import HandleComponents from "./components/HandleComponents";
+import TicTacToe from "./components/tic tac toe/TicTacToe";
+import TicTacToeCover from "./components/tic tac toe main cover/TicTacToeCover";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       {/* <ExpenseItem></ExpenseItem> */}
       <TicTacToe></TicTacToe>
       {/* <TicTacToeCover></TicTacToeCover> */}
+      {/* <HandleComponents></HandleComponents> */}
     </div>
   );
 }
